@@ -1,5 +1,4 @@
 markdown: rdiscount
-paginate: 5
 lsi: true
 
 # This is the default format. 
