@@ -14,7 +14,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Ryancct
-tagline: Rails, Ruby, Java, CANSLIM, Twitter Stock Analysis, Value investing
+tagline: Java, CANSLIM, Twitter Stock Analysis, Value investing
 author :
   name : Cheng
   email : 
