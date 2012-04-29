@@ -23,7 +23,7 @@ perform hft under the condition that its potential benefit is not significant.
 
 Hft has added value to the stock market in terms of 
 [tripling volume, reducing stock spreads and transaction costs, and providing high 
-liquidity.](http://www.cbsnews.com/2100-18560_162-20066899.html) Unlike the us stock market in which hft use is already common, it is obvious 
+liquidity.](http://www.cbsnews.com/2100-18560_162-20066899.html) Unlike the us stock market in which hft development is likely saturated, it is obvious 
 that hft will continue to play a great role in the hong kong stock market development. To let hft bloom in a way that will not hurt 
 investor confidence and will not distract company capital raising process is crucial.
 
