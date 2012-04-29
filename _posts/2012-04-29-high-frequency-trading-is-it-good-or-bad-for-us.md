@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Trading thousands of different securities at smoking fast speed is no longer fanciful now. HFT takes place in various stock exchanges, both the official and 
+Trading thousands of different securities at smoking fast speed is no longer fanciful now. High Frequency Trading (HFT) takes place in various stock exchanges, both the official and 
 unofficial one.
 
 Some said HFT will make the stock market more volatile when the way computers trade is lack of transparency, while some argues that [hft is not responsible for market volatility](http://www.highfrequencytraders.com/blog/909/hft-not-responsible-market-volatility-%E2%80%93-you-are). 
