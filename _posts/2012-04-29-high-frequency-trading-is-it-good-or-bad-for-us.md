@@ -17,7 +17,7 @@ Although [high frequency and
 algorithmic trading now accounts for over 70% of all equity trades placed on US exchanges and in excess of 77% in the 
 UK](http://allaboutalpha.com/blog/2011/09/06/the-secrets-of-high-frequency-trading/), 
 hft as a matter of fact is still not very developed in the HK stock market partly due to high transaction cost compared with that in the 
-euro or US stock market. As scholars stated, the cost of high HKEX levy and stamp duty drive small and medium sized Hft traders away. Which as a 
+euro or US stock market. As scholars stated, the cost of high HKEX levy and HK stamp duty fee drive small and medium sized Hft traders away. Which as a 
 result lowers down the trading volume in the market and limits the size of dark pool expansion in hong kong. Traders usually choose not to 
 perform hft under the condition that its potential benefit is not significant.
 
