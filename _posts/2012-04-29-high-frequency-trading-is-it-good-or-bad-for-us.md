@@ -2,8 +2,8 @@
 layout: post
 title: "High frequency trading. Is it good or bad for us?"
 description: ""
-category: 
-tags: []
+category: HFT
+tags: [HFT, Trading, Algorithm, Equity]
 ---
 {% include JB/setup %}
 
