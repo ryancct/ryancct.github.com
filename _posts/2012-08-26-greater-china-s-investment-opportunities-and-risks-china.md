@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Greater China's Investment Opportunities and Risks"
+title: "Greater China's Investment Opportunities and Risks (Chinese Version)"
 description: ""
 category: Trading
 tags: [Trading, Equity, Brokerage Industry]
