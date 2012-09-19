@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "search strategies for value investor   the anomaly of value (1)"
+title: "search strategies for value investor - the anomaly of value (1)"
 description: ""
 category: Value Investing
 tags: [Value Investing, Equity, Fudamental Analysis]
