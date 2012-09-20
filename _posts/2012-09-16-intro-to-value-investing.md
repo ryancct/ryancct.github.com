@@ -3,7 +3,7 @@ layout: post
 title: "Intro to value investing"
 description: ""
 category: Value Investing
-tags: [Value Investing, Equity, Fudamental Analysis]
+tags: [Value Investing, Equity, Fundamental Analysis]
 ---
 {% include JB/setup %}
 
