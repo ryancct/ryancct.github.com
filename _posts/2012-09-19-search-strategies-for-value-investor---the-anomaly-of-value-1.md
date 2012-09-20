@@ -15,7 +15,7 @@ Let's start with the one that I think may be common to us first. And keep the re
 
 Also, many investors predict by extrapolation, the process of estimating the future performance on the basis of the relationship with the stock past performance. However, if we more thoroughly examine the correlation of past performance with future return, we will reveal that stocks that performed poorly yesterday may have been the top performer over the past several years. However, people informally generalize from a few cases that are memorable rather than use the full set of data to analyze, and people remember the recent past better than the distant past. From the recent history, they pick up the winner and loser. Then they select the winner, hoping that they will continue to outperform in the near future.
 
-Greenward et al. also discussed how biases exist thanks to polices and human psychologies. Their details will be discussed in the next chapter review.
+Greenward et al. also discussed how biases exist thanks to investment institution polices and money manager psychologies. More details will be discussed later in the next chapter review.
 
 Reference:
 
