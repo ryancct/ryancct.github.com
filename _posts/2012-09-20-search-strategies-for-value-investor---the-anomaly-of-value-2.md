@@ -15,3 +15,10 @@ Greenward et al. further contends that funds cannot purchase small valued stocks
 
 Notes:
 *This issue might be slightly different in HK. According to the SFC takeovers code, mandatory general offer will be triggered if a person or group persons acting together buys 30% or more of voting shares in the company. Funds are likely to comply with more strignent regulation stipulated by their own, no more related information is available here though. But, the general rule in a takeover require the offer to be announced. Though not a prohibition, this rule is already trouble enough to decrease the fund appetite to own too much og just one stock in my opinion.
+
+Reference:
+
+Greenwald. B. C. N. & Kiviat. B. (2001). Value Investing: From Graham to Buffett and Beyond. Wiley.
+
+InvestEd Intelligence. Retrieved from
+http://www.invested.hk/invested/en/html/section/products/stocks/privatizations/trigger.html
