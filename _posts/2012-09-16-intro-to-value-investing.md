@@ -7,7 +7,7 @@ tags: [Value Investing, Equity, Fudamental Analysis]
 ---
 {% include JB/setup %}
 
-Value investing has been advocated by many professional investors, since it is initially defined by Benhamin Graham and David Dodd. It comes from the main idea of making investment decision based on a rational foundation. Over the last three or four decades, value investing has always been an important approach to investment analysis. So today, I would like to share what I have learnt from "Value Investing: From Graham to Buffett and Beyond" written by 
+Value investing has been advocated by many professional investors, since it is initially defined by Benhamin Graham and David Dodd. It comes from the main idea of making investment decision based on a rational foundation. Over the last three or four decades, value investing has always been an important approach to investment analysis. So today, I would like to share what I have learnt from "[Value Investing: From Graham to Buffett and Beyond](http://www.amazon.com/Value-Investing-Graham-Buffett-Finance/dp/0471463396/ref=sr_1_1?s=books&ie=UTF8&qid=1348148002&sr=1-1&keywords=value+investing)" written by 
 Bruce C. N. Greenwald and Barbara Kiviat.
 
 Based on introductory chapter, there are three key features of financial markets in value investing:
