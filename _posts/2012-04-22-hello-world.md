@@ -6,5 +6,3 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-
-Yo
