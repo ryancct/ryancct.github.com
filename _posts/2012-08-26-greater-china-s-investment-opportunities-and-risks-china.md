@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Greater China's Investment Opportunities and Risks (Chinese Version)"
 description: ""
