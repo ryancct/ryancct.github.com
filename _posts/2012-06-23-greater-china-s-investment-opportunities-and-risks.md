@@ -35,3 +35,5 @@ Kurtenbach. E. (2012), IMF says China's economy reached 'soft landing'. Retrieve
 Luhby. T. (2012). THE RISE OF CHINA: China's growing middle class Retrieved from http://money.cnn.com/2012/04/25/news/economy/china-middle-class/index.htm
 
 王海倫. (2011). 中國夢：世界上最大的中產階級的崛起及其影響. 文匯出版社.
+
+李雪莉. (2011). 暴富黃金十年:搶攻新中國6大消費族群. 天下雜誌472期.
