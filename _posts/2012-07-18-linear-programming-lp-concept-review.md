@@ -44,4 +44,4 @@ Linear programming. (2012). In Wikipedia, The Free Encyclopedia. Retrieved from 
 
 Vanderbei. R. J. (2007). Linear Programming: Chapter 1 Introduction. Princeton University. Retrieved from http://www.princeton.edu/~rvdb/542/lectures/lec1.pdf
 
-
+Verschelde. J. (2011). Linear Programming in MATLAB. Introduction to Symbolic Computation. Chicago, IL: UIC MSCS department. Retrieved from http://homepages.math.uic.edu/~jan/mcs320s03/matlec9.pdf
