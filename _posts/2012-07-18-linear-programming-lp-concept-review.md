@@ -11,23 +11,23 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 
 LP是一種數學方法，其主要原理是在特定的約束條件之下計算出最優化(最大彧最小)的目標函數的結果。LP曾在WWII時被應用於軍事開支預算以減低軍用成本及增加敵軍的損失。起初，LP的原理是美軍的軍事機密。不過，George B. Dantzig則在1947年公開了LP的計算方法。之後，LP的表述便解決了許多營運上的實際問題如網路流或多商品流等等。另外，因為很多商業機構都希望解決收入極大化或成本極小化等的問題，LP亦因而經常大派用場。另外，LP的其他主要用途亦包括有效的資源調配。其數式的表達如下:
 
-![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.jpg)
+![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.png)
 
-�H�U�O�@��²�檺�Ҥl�H����LP formulation���Ӹ`:
+以下是一個簡單的例子以說明LP formulation的細節:
 
 E.g.:
-���]�{�b���@���M���Ͳ��ѥ]�����q�A���s�@���Ƥ��O�O�ֽ��Υ������ؿ��ܡC�ѥ]�i�H�H�ֽ��Υ����s���C�t�~�A���m���ƪ��ܮw�i�H�e��50���窺���ơC�Ӥ��q�u�i�H�ϥΦ����ƶq�����u�u��(600�p��)�Υ[�u����(500����)�A�ӨC�@�ӥֽ��Υ����s�����ѥ]���ݭn���P�ƶq���u�ɤΥ[�u���Ƥ~���s���C�C�@�ӥֻs�ѥ]�ݭn45�u�@�p�ɩM60���窫�ơA�ӨC�@�ӥ����s�����ѥ]�h�ݭn30�u�@�p�ɩM45���窫�ơC�]�C�P���@�ӥֻs�ѥ]�M���s�ѥ]�����q�Q����150��100�䤸�A�h�Ӥ��q�����Q���D�i�H���ܬ��H�U��LP formulation:
+假設現在有一間專門生產書包的公司，其製作原料分別是皮質或布質兩種選擇。書包可以以皮質或布質製成。另外，放置原料的倉庫可以容納50公斤的原料。該公司只可以使用有限數量的員工工時(600小時)及加工物料(500公斤)，而每一個皮質或布質製成的書包都需要不同數量的工時及加工物料才能製成。每一個皮製書包需要45工作小時和60公斤物料，而每一個布質製成的書包則需要30工作小時和45公斤物料。設每銷售一個皮製書包和布製書包的公司利潤為150及100港元，則該公司的營利問題可以表示為以下的LP formulation:
 
 Max P = 150X + 100Y, 
-where Max P is the maximized profit, X is �ֻs�ѥ]���ƥ� and Y is ���s�ѥ]���ƥ�
+where Max P is the maximized profit, X is 皮製書包的數目 and Y is 布製書包的數目
 
 Subject to.:
-X + Y =< 50			(�ܮw�e�q����),
-45X + 30X =< 600	(�u�ɭ���)
-60X + 45Y =< 500	(�[�u���ƭ���)
-X, Y => 0			(�����Ͳ��t�ƪ��ѥ]�ƶq)
+X + Y =< 50  		(倉庫容量限制),
+45X + 30X =< 600	(工時限制)
+60X + 45Y =< 500	(加工物料限制)
+X, Y => 0			(不能生產負數的書包數量)
 
-�W�z���|���Ҥl�O�@�Ӹ�²�檺�Ҥl���K�j�a���աCLP�����άO�i�H�D�`�s�x�A�ӷ����ҳ]�����������M�i�H���h�A�⦡���i�H�������CŪ�Ѯɴ��A���̴����ѤF[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)��the theory of portfolio choice. ����[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)���OLP���η������䤤�@�ӳ̨ΨҤl�C���Q�ΤFLP�����z���X���PAsset Class�Ҳ��ͪ��̨Χ����զX�C�o��theory���OMarkowitz�b1990�~�����FNobel Prize���C���̴��bŪ�Ѯɴ����էQ��excel��solver�i��LP formulation�A�չϹB��EF�����z�q�T�Ӥ��P�겣���O�����p���U�۩һݪ�Weighting�A�y�����X�̨Ϊ������զX�C���������N���~�һs��excel�ɮצb�����W[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)�A�H�ѰѸԡC�L���N�t�A�����ԭz���������z�Ψ����p���ӫh�C
+上述所舉的例子是一個較簡單的例子方便大家明白。LP的應用是可以非常廣泛，而當中所設約束條件當然可以更多，算式亦可以更複雜。讀書時期，筆者曾見識了[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)的the theory of portfolio choice. 當中[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)更是LP應用當中的其中一個最佳例子。它利用了LP的原理找出不同Asset Class所產生的最佳投資組合。這個theory更令Markowitz在1990年獲取了Nobel Prize的。筆者曾在讀書時期嘗試利用excel的solver進行LP formulation，試圖運用EF的原理從三個不同資產類別之間計算各自所需的Weighting，籍此找出最佳的投資組合。筆者顯醜將當年所製的excel檔案在此附上[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)，以供參詳。他日將另再撰文詳述相關的原理及具體計算細則。
 
 Reference:
 
