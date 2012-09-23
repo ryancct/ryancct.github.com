@@ -32,7 +32,7 @@ X, Y => 0			(不能生產負數的書包數量),
 
 ![lpgraph](http://ryancheng.s3.amazonaws.com/Linear%20Programming/lpgraph.png)
 
-經lp計算並將結果以圖像顯示, 我們可以知道 X = 21.875, Y = 53.125 的話，該公司便能取得maximized profit。不過，因為書包的數量必需為整數，所以該公司maximized profit應該等於:
+經LP計算並將結果以圖像顯示, 我們可以知道 X = 21.875, Y = 53.125 的話，該公司便能取得maximized profit。不過，因為書包的數量必需為整數，所以該公司maximized profit應該等於:
 
 Max P = 143(21) + 60(53) = 6183 港元
 
