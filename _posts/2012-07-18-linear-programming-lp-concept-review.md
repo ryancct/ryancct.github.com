@@ -7,27 +7,27 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 ---
 {% include JB/setup %}
 
-µ§ªÌ´¿¸g¦b¾Ç®Õºâ³N½Ò¤F¸Ñ¹L[Linear Programming (LP)](http://en.wikipedia.org/wiki/Linear_programming)ªº­ì²z¤Î¥Î³~¡C¦ÓLP¬Oµ§ªÌ¸û¦³¿³½ìÆp¬ãªº¨ä¤¤¤@­Ó¼Æ¾Ç­ì²z¡C¦]¦¹¡A·QÂÇ¦¹¾÷·|·Å¬Gª¾·s¤Î±N¤@¤v©Ò¾Ç©Ò±o¦b³o¸Ì¸ò¤j®a¤À¨É¤@¤U¡C
+ç­†è€…æ›¾ç¶“åœ¨å­¸æ ¡ç®—è¡“èª²äº†è§£éŽLinear Programming (LP)çš„åŽŸç†åŠç”¨é€”ã€‚è€ŒLPæ˜¯ç­†è€…è¼ƒæœ‰èˆˆè¶£é‘½ç ”çš„å…¶ä¸­ä¸€å€‹æ•¸å­¸åŽŸç†ã€‚å› æ­¤ï¼Œæƒ³è—‰æ­¤æ©Ÿæœƒæº«æ•…çŸ¥æ–°åŠå°‡ä¸€å·±æ‰€å­¸æ‰€å¾—åœ¨é€™è£¡è·Ÿå¤§å®¶åˆ†äº«ä¸€ä¸‹ã€‚
 
-LP¬O¤@ºØ¼Æ¾Ç¤èªk¡A¨ä¥D­n­ì²z¬O¦b¯S©wªº¬ù§ô±ø¥ó¤§¤U­pºâ¥X³ÌÀu¤Æ(³Ì¤jÑ{³Ì¤p)ªº¥Ø¼Ð¨ç¼Æªºµ²ªG¡CLP´¿¦bWWII®É³QÀ³¥Î©ó­x¨Æ¶}¤ä¹wºâ¥H´î§C­x¥Î¦¨¥»¤Î¼W¥[¼Ä­xªº·l¥¢¡C°_ªì¡ALPªº­ì²z¬O¬ü­xªº­x¨Æ¾÷±K¡C¤£¹L¡A[George B. Dantzig]( http://en.wikipedia.org/wiki/George_Dantzig)«h¦b1947¦~¤½¶}¤FLPªº­pºâ¤èªk¡C¤§«á¡ALPªºªí­z«K¸Ñ¨M¤F³\¦hÀç¹B¤Wªº¹ê»Ú°ÝÃD¦pºô¸ô¬y©Î¦h°Ó«~¬yµ¥µ¥¡C¥t¥~¡A¦]¬°«Ü¦h°Ó·~¾÷ºc³£§Æ±æ¸Ñ¨M¦¬¤J·¥¤j¤Æ©Î¦¨¥»·¥¤p¤Æµ¥ªº°ÝÃD¡ALP¥ç¦]¦Ó¸g±`¤j¬£¥Î³õ¡C¥t¥~¡ALPªº¨ä¥L¥D­n¥Î³~¥ç¥]¬A¦³®Äªº¸ê·½½Õ°t¡C¨ä¼Æ¦¡ªºªí¹F¦p¤U:
+LPæ˜¯ä¸€ç¨®æ•¸å­¸æ–¹æ³•ï¼Œå…¶ä¸»è¦åŽŸç†æ˜¯åœ¨ç‰¹å®šçš„ç´„æŸæ¢ä»¶ä¹‹ä¸‹è¨ˆç®—å‡ºæœ€å„ªåŒ–(æœ€å¤§å½§æœ€å°)çš„ç›®æ¨™å‡½æ•¸çš„çµæžœã€‚LPæ›¾åœ¨WWIIæ™‚è¢«æ‡‰ç”¨æ–¼è»äº‹é–‹æ”¯é ç®—ä»¥æ¸›ä½Žè»ç”¨æˆæœ¬åŠå¢žåŠ æ•µè»çš„æå¤±ã€‚èµ·åˆï¼ŒLPçš„åŽŸç†æ˜¯ç¾Žè»çš„è»äº‹æ©Ÿå¯†ã€‚ä¸éŽï¼ŒGeorge B. Dantzigå‰‡åœ¨1947å¹´å…¬é–‹äº†LPçš„è¨ˆç®—æ–¹æ³•ã€‚ä¹‹å¾Œï¼ŒLPçš„è¡¨è¿°ä¾¿è§£æ±ºäº†è¨±å¤šç‡Ÿé‹ä¸Šçš„å¯¦éš›å•é¡Œå¦‚ç¶²è·¯æµæˆ–å¤šå•†å“æµç­‰ç­‰ã€‚å¦å¤–ï¼Œå› ç‚ºå¾ˆå¤šå•†æ¥­æ©Ÿæ§‹éƒ½å¸Œæœ›è§£æ±ºæ”¶å…¥æ¥µå¤§åŒ–æˆ–æˆæœ¬æ¥µå°åŒ–ç­‰çš„å•é¡Œï¼ŒLPäº¦å› è€Œç¶“å¸¸å¤§æ´¾ç”¨å ´ã€‚å¦å¤–ï¼ŒLPçš„å…¶ä»–ä¸»è¦ç”¨é€”äº¦åŒ…æ‹¬æœ‰æ•ˆçš„è³‡æºèª¿é…ã€‚å…¶æ•¸å¼çš„è¡¨é”å¦‚ä¸‹:
 
-![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.png)
+![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.jpg)
 
-¥H¤U¬O¤@­ÓÂ²³æªº¨Ò¤l¥H»¡©úLP formulationªº²Ó¸`:
+ï¿½Hï¿½Uï¿½Oï¿½@ï¿½ï¿½Â²ï¿½æªºï¿½Ò¤lï¿½Hï¿½ï¿½ï¿½ï¿½LP formulationï¿½ï¿½ï¿½Ó¸`:
 
 E.g.:
-°²³]²{¦b¦³¤@¶¡±Mªù¥Í²£®Ñ¥]ªº¤½¥q¡A¨ä»s§@­ì®Æ¤À§O¬O¥Ö½è©Î¥¬½è¨âºØ¿ï¾Ü¡C®Ñ¥]¥i¥H¥H¥Ö½è©Î¥¬½è»s¦¨¡C¥t¥~¡A©ñ¸m­ì®Æªº­Ü®w¥i¥H®e¯Ç50¤½¤çªº­ì®Æ¡C¸Ó¤½¥q¥u¥i¥H¨Ï¥Î¦³­­¼Æ¶qªº­û¤u¤u®É(600¤p®É)¤Î¥[¤uª«®Æ(500¤½¤ç)¡A¦Ó¨C¤@­Ó¥Ö½è©Î¥¬½è»s¦¨ªº®Ñ¥]³£»Ý­n¤£¦P¼Æ¶qªº¤u®É¤Î¥[¤uª«®Æ¤~¯à»s¦¨¡C¨C¤@­Ó¥Ö»s®Ñ¥]»Ý­n45¤u§@¤p®É©M60¤½¤çª«®Æ¡A¦Ó¨C¤@­Ó¥¬½è»s¦¨ªº®Ñ¥]«h»Ý­n30¤u§@¤p®É©M45¤½¤çª«®Æ¡C³]¨C¾P°â¤@­Ó¥Ö»s®Ñ¥]©M¥¬»s®Ñ¥]ªº¤½¥q§Q¼í¬°150¤Î100´ä¤¸¡A«h¸Ó¤½¥qªºÀç§Q°ÝÃD¥i¥Hªí¥Ü¬°¥H¤UªºLP formulation:
+ï¿½ï¿½ï¿½]ï¿½{ï¿½bï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½Mï¿½ï¿½ï¿½Í²ï¿½ï¿½Ñ¥]ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Aï¿½ï¿½ï¿½sï¿½@ï¿½ï¿½ï¿½Æ¤ï¿½ï¿½Oï¿½Oï¿½Ö½ï¿½ï¿½Î¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø¿ï¿½ï¿½Ü¡Cï¿½Ñ¥]ï¿½iï¿½Hï¿½Hï¿½Ö½ï¿½ï¿½Î¥ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Cï¿½tï¿½~ï¿½Aï¿½ï¿½ï¿½mï¿½ï¿½ï¿½Æªï¿½ï¿½Ü®wï¿½iï¿½Hï¿½eï¿½ï¿½50ï¿½ï¿½ï¿½çªºï¿½ï¿½ï¿½Æ¡Cï¿½Ó¤ï¿½ï¿½qï¿½uï¿½iï¿½Hï¿½Ï¥Î¦ï¿½ï¿½ï¿½ï¿½Æ¶qï¿½ï¿½ï¿½ï¿½ï¿½uï¿½uï¿½ï¿½(600ï¿½pï¿½ï¿½)ï¿½Î¥[ï¿½uï¿½ï¿½ï¿½ï¿½(500ï¿½ï¿½ï¿½ï¿½)ï¿½Aï¿½Ó¨Cï¿½@ï¿½Ó¥Ö½ï¿½ï¿½Î¥ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Ñ¥]ï¿½ï¿½ï¿½Ý­nï¿½ï¿½ï¿½Pï¿½Æ¶qï¿½ï¿½ï¿½uï¿½É¤Î¥[ï¿½uï¿½ï¿½ï¿½Æ¤~ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½Cï¿½Cï¿½@ï¿½Ó¥Ö»sï¿½Ñ¥]ï¿½Ý­n45ï¿½uï¿½@ï¿½pï¿½É©M60ï¿½ï¿½ï¿½çª«ï¿½Æ¡Aï¿½Ó¨Cï¿½@ï¿½Ó¥ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½Ñ¥]ï¿½hï¿½Ý­n30ï¿½uï¿½@ï¿½pï¿½É©M45ï¿½ï¿½ï¿½çª«ï¿½Æ¡Cï¿½]ï¿½Cï¿½Pï¿½ï¿½ï¿½@ï¿½Ó¥Ö»sï¿½Ñ¥]ï¿½Mï¿½ï¿½ï¿½sï¿½Ñ¥]ï¿½ï¿½ï¿½ï¿½ï¿½qï¿½Qï¿½ï¿½ï¿½ï¿½150ï¿½ï¿½100ï¿½ä¤¸ï¿½Aï¿½hï¿½Ó¤ï¿½ï¿½qï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½ï¿½ï¿½Dï¿½iï¿½Hï¿½ï¿½ï¿½Ü¬ï¿½ï¿½Hï¿½Uï¿½ï¿½LP formulation:
 
 Max P = 150X + 100Y, 
-where Max P is the maximized profit, X is ¥Ö»s®Ñ¥]ªº¼Æ¥Ø and Y is ¥¬»s®Ñ¥]ªº¼Æ¥Ø
+where Max P is the maximized profit, X is ï¿½Ö»sï¿½Ñ¥]ï¿½ï¿½ï¿½Æ¥ï¿½ and Y is ï¿½ï¿½ï¿½sï¿½Ñ¥]ï¿½ï¿½ï¿½Æ¥ï¿½
 
 Subject to.:
-X + Y =< 50			(­Ü®w®e¶q­­¨î),
-45X + 30X =< 600	(¤u®É­­¨î)
-60X + 45Y =< 500	(¥[¤uª«®Æ­­¨î)
-X, Y => 0			(¤£¯à¥Í²£­t¼Æªº®Ñ¥]¼Æ¶q)
+X + Y =< 50			(ï¿½Ü®wï¿½eï¿½qï¿½ï¿½ï¿½ï¿½),
+45X + 30X =< 600	(ï¿½uï¿½É­ï¿½ï¿½ï¿½)
+60X + 45Y =< 500	(ï¿½[ï¿½uï¿½ï¿½ï¿½Æ­ï¿½ï¿½ï¿½)
+X, Y => 0			(ï¿½ï¿½ï¿½ï¿½ï¿½Í²ï¿½ï¿½tï¿½Æªï¿½ï¿½Ñ¥]ï¿½Æ¶q)
 
-¤W­z©ÒÁ|ªº¨Ò¤l¬O¤@­Ó¸ûÂ²³æªº¨Ò¤l¤è«K¤j®a©ú¥Õ¡CLPªºÀ³¥Î¬O¥i¥H«D±`¼sªx¡A¦Ó·í¤¤©Ò³]¬ù§ô±ø¥ó·íµM¥i¥H§ó¦h¡Aºâ¦¡¥ç¥i¥H§ó½ÆÂø¡CÅª®Ñ®É´Á¡Aµ§ªÌ´¿¨£ÃÑ¤F[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)ªºthe theory of portfolio choice. ·í¤¤[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)§ó¬OLPÀ³¥Î·í¤¤ªº¨ä¤¤¤@­Ó³Ì¨Î¨Ò¤l¡C¥¦§Q¥Î¤FLPªº­ì²z§ä¥X¤£¦PAsset Class©Ò²£¥Íªº³Ì¨Î§ë¸ê²Õ¦X¡C³o­Ótheory§ó¥OMarkowitz¦b1990¦~Àò¨ú¤FNobel Prizeªº¡Cµ§ªÌ´¿¦bÅª®Ñ®É´Á¹Á¸Õ§Q¥Îexcelªºsolver¶i¦æLP formulation¡A¸Õ¹Ï¹B¥ÎEFªº­ì²z±q¤T­Ó¤£¦P¸ê²£Ãþ§O¤§¶¡­pºâ¦U¦Û©Ò»ÝªºWeighting¡AÄy¦¹§ä¥X³Ì¨Îªº§ë¸ê²Õ¦X¡Cµ§ªÌÅãÁà±N·í¦~©Ò»sªºexcelÀÉ®×¦b¦¹ªþ¤W[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)¡A¥H¨Ñ°Ñ¸Ô¡C¥L¤é±N¥t¦A¼¶¤å¸Ô­z¬ÛÃöªº­ì²z¤Î¨ãÅé­pºâ²Ó«h¡C
+ï¿½Wï¿½zï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½Ò¤lï¿½Oï¿½@ï¿½Ó¸ï¿½Â²ï¿½æªºï¿½Ò¤lï¿½ï¿½ï¿½Kï¿½jï¿½aï¿½ï¿½ï¿½Õ¡CLPï¿½ï¿½ï¿½ï¿½ï¿½Î¬Oï¿½iï¿½Hï¿½Dï¿½`ï¿½sï¿½xï¿½Aï¿½Ó·ï¿½ï¿½ï¿½ï¿½Ò³]ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Mï¿½iï¿½Hï¿½ï¿½ï¿½hï¿½Aï¿½â¦¡ï¿½ï¿½ï¿½iï¿½Hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½CÅªï¿½Ñ®É´ï¿½ï¿½Aï¿½ï¿½ï¿½Ì´ï¿½ï¿½ï¿½ï¿½Ñ¤F[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)ï¿½ï¿½the theory of portfolio choice. ï¿½ï¿½ï¿½ï¿½[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)ï¿½ï¿½ï¿½OLPï¿½ï¿½ï¿½Î·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ä¤¤ï¿½@ï¿½Ó³Ì¨Î¨Ò¤lï¿½Cï¿½ï¿½ï¿½Qï¿½Î¤FLPï¿½ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½Xï¿½ï¿½ï¿½PAsset Classï¿½Ò²ï¿½ï¿½Íªï¿½ï¿½Ì¨Î§ï¿½ï¿½ï¿½ï¿½Õ¦Xï¿½Cï¿½oï¿½ï¿½theoryï¿½ï¿½ï¿½OMarkowitzï¿½b1990ï¿½~ï¿½ï¿½ï¿½ï¿½ï¿½FNobel Prizeï¿½ï¿½ï¿½Cï¿½ï¿½ï¿½Ì´ï¿½ï¿½bÅªï¿½Ñ®É´ï¿½ï¿½ï¿½ï¿½Õ§Qï¿½ï¿½excelï¿½ï¿½solverï¿½iï¿½ï¿½LP formulationï¿½Aï¿½Õ¹Ï¹Bï¿½ï¿½EFï¿½ï¿½ï¿½ï¿½ï¿½zï¿½qï¿½Tï¿½Ó¤ï¿½ï¿½Pï¿½ê²£ï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½Uï¿½Û©Ò»Ýªï¿½Weightingï¿½Aï¿½yï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½Ì¨Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¦Xï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½~ï¿½Ò»sï¿½ï¿½excelï¿½É®×¦bï¿½ï¿½ï¿½ï¿½ï¿½W[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)ï¿½Aï¿½Hï¿½Ñ°Ñ¸Ô¡Cï¿½Lï¿½ï¿½ï¿½Nï¿½tï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½Ô­zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½Î¨ï¿½ï¿½ï¿½ï¿½pï¿½ï¿½ï¿½Ó«hï¿½C
 
 Reference:
 
