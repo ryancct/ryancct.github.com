@@ -18,6 +18,8 @@ Based on introductory chapter, there are three key features of financial markets
 
 As mentioned earlier, the investment decision is based on rational foundation. As scuh, an value investor should figure out the fundamental value of a financial security and compares the value to the current price in the market. If the current market price is lower than the fundamental value, then the stock should be undervalued.
 
+![valueinvesting](http://ryancheng.s3.amazonaws.com/Linear%20Programming/valueinvesting.jpg)
+
 p.s. as a calculation of risk, safety margin has nothing in common with the volatility of a security's price. The volitility can sometimes be high as the price is dropping very sharply, but to value investors it might not be risky but another investment opportunity as the margin of safety has also widened as well.
 
 Reference:
