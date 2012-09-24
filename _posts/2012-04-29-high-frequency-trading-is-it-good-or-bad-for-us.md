@@ -27,4 +27,4 @@ investor confidence and will not distract company capital raising process is cru
 
 Therefore, Financial regulator should make every effort to ensure that hft activites in hong kong are closely monitored.
 
-![hft](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hft.jpg)
+[![hft](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hft.jpg)](http://www.google.com/imgres?q=high+frequency+trading&start=12&num=10&um=1&hl=en&rlz=1C1GGGE_enHK411&biw=1024&bih=677&tbm=isch&tbnid=d5acmlOWk2Eq-M:&imgrefurl=http://www.redlinetrading.com/solutions/high-frequency-trading/&docid=UHYPP1Iv8sb-oM&imgurl=http://www.redlinetrading.com/img/high-frequency-trading.jpg&w=352&h=222&ei=eINgUK-OBoWjiQeIy4HICw&zoom=1&iact=hc&vpx=309&vpy=279&dur=5009&hovh=177&hovw=281&tx=203&ty=66&sig=103780612564279806393&page=2&tbnh=146&tbnw=198&ndsp=16&ved=1t:429,r:13,s:12,i:48)
