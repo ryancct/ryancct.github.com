@@ -26,3 +26,5 @@ that hft will continue to play a great role in the hong kong stock market develo
 investor confidence and will not distract company capital raising process is crucial.
 
 Therefore, Financial regulator should make every effort to ensure that hft activites in hong kong are closely monitored.
+
+![hft](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hft.jpg)
