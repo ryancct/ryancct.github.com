@@ -11,7 +11,7 @@ tags: [Trading, Equity, Brokerage Industry]
 
 Given the ever-changing development in the securities market, the prediction about the outlook of the brokerage industry in the next three years will be hardly accurate. But, in response to the recent technological and economical situations, certain changes are likely to be made among all the brokerage firms in Hong Kong. I will discuss two of them that their impact on the industry is recognized as direct and far-reaching.
 
-![hkexhall](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hkexhall.JPG)
+[![hkexhall](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hkexhall.JPG)](http://www.hkex.com.hk/eng/index.htm)
 
 First, the potential for attack by cyber criminal will become greater when the technology is being more advanced. On 10 April 2011, HKEx site for disclosing company information was crashed due to the distributed denial of service (DDoS) attack by computer hackers. Several blue-chip stocks such as HSBC and Cathay Pacific were suspended as they attempted to disclose price sensitive information. The hacking incident disrupted normal operations of trading in the market which might cause tremendous amount of money loss to the customers. It would be certain that high cyber-security awareness in the brokerage industry will be raised in the near future as no brokerage firm can run the risk of being too vulnerable to the hacker attack like the one in HKEx. Staff in brokerage firm should be mindful that information risk in the future is getting higher and learn the best practices for prevention of any cyber crimes in the financial market.
 
