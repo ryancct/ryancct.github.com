@@ -11,7 +11,7 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 
 LP是一種數學方法，其主要原理是在特定的約束條件之下計算出最優化(最大彧最小)的目標函數的結果。LP曾在WWII時被應用於軍事開支預算以減低軍用成本及增加敵軍的損失。起初，LP的原理是美軍的軍事機密，坊間對其認知有限。不過，自從George B. Dantzig在1947年公開了LP的計算方法。之後，LP的表述便解決了許多營運上的實際問題如網路流或多商品流等等。另外，因為很多商業機構都希望解決收入極大化或成本極小化等的問題，LP亦因而經常在這些情況下大派用場。另外，LP亦有其他主要用途，當中最常接觸的便是有效的資源調配。其數式的表達如下:
 
-![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.png)
+[![resourcesallocation](http://ryancheng.s3.amazonaws.com/Linear%20Programming/resourcesallocatelpmathexpress.png)](http://www.princeton.edu/~rvdb/542/lectures/lec1.pdf)
 
 以下是筆者一個簡單的例子以說明LP formulation的細節:
 
