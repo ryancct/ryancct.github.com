@@ -7,6 +7,8 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 ---
 {% include JB/setup %}
 
+![policy](http://ryancheng.s3.amazonaws.com/Linear%20Programming/policy.jpg)
+
 In Hong Kong, or other securities trading countries, the fund pool size in the market is expanding. As the pool size increases, their influence on the price movement becomes greater. However, these institutions are run by human and they are always subject to stringent rules & regulations. These various constraints might give us answers to why the value anomaly might persist in the face of intelligent and energetic investors who are always eager to outperform the market average.
 
 Institutions, as stipulated in their policy, are sometimes not allowed to purchase certain types of stock. (e.g. socially irresponsible companies like tobacco business company). If the number of institutional investment funds prevented from owning certain kinds of stock, the demand for their shares will be reduced. So as measured by current earnings or growth prospects, these stocks are usually undervalued. But if the policy restriction is not lifted, they could be undervalued permanently.
