@@ -7,7 +7,7 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 ---
 {% include JB/setup %}
 
-![policy](http://ryancheng.s3.amazonaws.com/Linear%20Programming/policy.jpg)
+[![policy](http://ryancheng.s3.amazonaws.com/Linear%20Programming/policy.jpg)](http://www.invested.hk/invested/en/html/section/products/funds/basics/authorisation.html)
 
 In Hong Kong, or other securities trading countries, the fund pool size in the market is expanding. As the pool size increases, their influence on the price movement becomes greater. However, these institutions are run by human and they are always subject to stringent rules & regulations. These various constraints might give us answers to why the value anomaly might persist in the face of intelligent and energetic investors who are always eager to outperform the market average.
 
