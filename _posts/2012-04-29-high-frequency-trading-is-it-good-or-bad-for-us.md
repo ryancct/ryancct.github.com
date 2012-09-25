@@ -23,8 +23,6 @@ Hft has added value to the stock market in terms of
 [tripling volume, reducing stock spreads and transaction costs, and providing high 
 liquidity.](http://www.cbsnews.com/2100-18560_162-20066899.html) Unlike the us stock market in which hft development is likely saturated, it is obvious 
 that hft will continue to play a great role in the hong kong stock market development. To let hft bloom in a way that will not hurt 
-investor confidence and will not distract company capital raising process is crucial.
-
-Therefore, Financial regulator should make every effort to ensure that hft activites in hong kong are closely monitored.
+investor confidence and will not distract company capital raising process is crucial. Therefore, Financial regulator should make every effort to ensure that hft activites in hong kong are closely monitored.
 
 [![hft](http://ryancheng.s3.amazonaws.com/Linear%20Programming/hft.jpg)](http://www.google.com/imgres?q=high+frequency+trading&um=1&hl=en&rlz=1C1GGGE_enHK411&biw=1024&bih=677&tbm=isch&tbnid=WCVDX82FMxfk6M:&imgrefurl=http://online.wsj.com/article/SB125133123046162191.html&docid=6Yk6vXFMcj3RRM&imgurl=http://si.wsj.net/public/resources/images/MI-AY479_GETCO__G_20090826183548.jpg&w=553&h=369&ei=y4RgULmEJ-TriAfucg&zoom=1&iact=hc&vpx=87&vpy=370&dur=1054&hovh=183&hovw=275&tx=166&ty=197&sig=103780612564279806393&page=1&tbnh=136&tbnw=168&start=0&ndsp=15&ved=1t:429,r:5,s:0,i:89)
