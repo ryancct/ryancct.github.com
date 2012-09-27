@@ -7,7 +7,7 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 ---
 {% include JB/setup %}
 
-As powerful as the funds are in the stock market, they are run by human (i.e. money managers). The behavioral description of money managers by Greenward et al., as he admits are over-generalized. In fact, he tried to explain why, if the money managers were not guided solely by reason and evidence, enduring biases that are discussed below may create investment opportunities that should not exist.
+As powerful as the funds are in the stock market, they are run by human (i.e. money managers). Greenwald et al. tried to explain why, if the money managers were not guided solely by reason and evidence, enduring biases that are going to be discussed below may create investment opportunities that should not exist.
 
 His explanation is based on the fact that money managers are also employees hired to produce results by prescribed investment policies. For job security, it makes sense for them to strive to keep average performance instead of making smart move. The reason is simple. If the exceptional move unfortunately turned out to be bad, this record could tarnish the manager reputation which as a result negatively affects the future career. This consequence is severe. So, the money manager interests or agendas may possibly not be in line with the interests of the institutions they work for.
 
