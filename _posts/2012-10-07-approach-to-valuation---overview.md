@@ -19,20 +19,20 @@ PV analysis is usually the common approach most finance students should think of
     (e.g. multiple-based value like EBITDA or sensitivity analysis)</div></th>
   </tr>
   <tr>
-    <td><div align="left">
+    <td valign="top"><div align="left">
       <ol>
         <li>Segregate information affecting valuation by reliability class, so that good info is not contaminated by poor info</li>
         <li>Directly uses the valuation implications of broad strategic judgments</li>
         <li>Avoid both of the problem found in PV analysis and other methods</li>
       </ol>
     </div></td>
-    <td><div align="left">
+    <td valign="top"><div align="left">
       <ol>
         <li>Various factors such as more competitions, tech challenges, the rising cost of materials can greatly influence the CF in two or three years</li>
         <li>Valuations vary significantly if the underlying assumptions are off by only small amounts</li>
       </ol>
     </div></td>
-    <td><div align="left">
+    <td valign="top"><div align="left">
       <ol>
         <li>Show similar problem in the opinion of Greenwald et al</li>
         <li>The parameters in sensitivity analysis are linked in a complicated way</li>
