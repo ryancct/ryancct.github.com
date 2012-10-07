@@ -34,7 +34,7 @@ PV analysis is usually the common approach most finance students should think of
     </div></td>
     <td valign="top"><div align="left">
       <ol>
-        <li>Show similar problem in the opinion of Greenwald et al</li>
+        <li>Show similar problems in the opinion of Greenwald et al</li>
         <li>The parameters in sensitivity analysis are linked in a complicated way</li>
       </ol>
     </div></td>
