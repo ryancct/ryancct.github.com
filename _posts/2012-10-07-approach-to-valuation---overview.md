@@ -11,27 +11,33 @@ Greenwald et al contented that company intrinsic value can be determined by care
 
 As taught in the college, PV analysis is usually the common approach most finance students should think of when it comes to valuation. But Greenwald et al advocated that the Graham & Dodd approach (G&D approach) should be used instead of the common PV analysis. Greenwald et al opinions about the two methods are summarized below:
 
-<table width="500" border="1" cellspacing="3" cellpadding="100">
+<table width="100%" border="1" cellpadding="100" cellspacing="3">
   <tr>
-    <th scope="col">G&amp;D approach</th>
-    <th scope="col">PV Analysis</th>
-    <th scope="col">Other methods<br />
-    (e.g. multiple-based value or sensitivity analysis)</th>
+    <th width="34%" scope="col"><div align="center">G&amp;D approach</div></th>
+    <th width="35%" scope="col"><div align="center">PV Analysis</div></th>
+    <th width="31%" scope="col"><div align="center">Other methods<br />
+    (e.g. multiple-based value or sensitivity analysis)</div></th>
   </tr>
   <tr>
-    <td><ol>
-      <li>Segregate information affecting valuation by reliability class, so that good info is not contaminated by poor info</li>
-      <li>Directly uses the valuation implications of broad strategic judgments</li>
-      <li>Avoid both of the problem found in PV analysis and other methods</li>
-    </ol></td>
-    <td><ol>
-      <li>Various factors such as more competitions, tech challenges, the rising cost of materials can greatly influence the CF in two or three years</li>
-      <li>Valuations vary significantly if the underlying assumptions are off by only small amounts</li>
-    </ol></td>
-    <td><ol>
-      <li>Show similar problem in the opinion of Greenwald et al</li>
-      <li>The parameters in sensitivity analysis are linked in a complicated way</li>
-    </ol></td>
+    <td><div align="left">
+      <ol>
+        <li>Segregate information affecting valuation by reliability class, so that good info is not contaminated by poor info</li>
+        <li>Directly uses the valuation implications of broad strategic judgments</li>
+        <li>Avoid both of the problem found in PV analysis and other methods</li>
+      </ol>
+    </div></td>
+    <td><div align="left">
+      <ol>
+        <li>Various factors such as more competitions, tech challenges, the rising cost of materials can greatly influence the CF in two or three years</li>
+        <li>Valuations vary significantly if the underlying assumptions are off by only small amounts</li>
+      </ol>
+    </div></td>
+    <td><div align="left">
+      <ol>
+        <li>Show similar problem in the opinion of Greenwald et al</li>
+        <li>The parameters in sensitivity analysis are linked in a complicated way</li>
+      </ol>
+    </div></td>
   </tr>
 </table>
 
