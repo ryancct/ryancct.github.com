@@ -16,7 +16,7 @@ PV analysis is usually the common approach most finance students should think of
     <th width="34%" scope="col"><div align="center">Graham & Dodd approach</div></th>
     <th width="35%" scope="col"><div align="center">PV Analysis</div></th>
     <th width="31%" scope="col"><div align="center">Other methods<br />
-    (e.g. multiple-based value or sensitivity analysis)</div></th>
+    (e.g. multiple-based value like EBITDA or sensitivity analysis)</div></th>
   </tr>
   <tr>
     <td><div align="left">
