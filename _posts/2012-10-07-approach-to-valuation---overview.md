@@ -55,6 +55,8 @@ As for the Earning Power Value (EPV), Graham and Dodd thought that it is the sec
 
 That's also one of the reasons why the growth issue is quite isolated from the other two elements into which the more reliable information is incorporated. Its estimations are so prone to error. Another reason why growth is least reliable measure comes from an interesting argument. Growth on a level economic playing field creates no value. The only growth that creates value is growth in markets where the firm enjoys a competitive advantage.
 
+[![three slices of value](http://www.capitalideasonline.com/images/threeslicesofvalueoct06,06.jpg)](http://www.capitalideasonline.com/articles/index.php?id=2020)
+
 Though growth is the element of value that value investor is least willing to pay attention, the other two elements are integrated with it to form a full picture of what a good company should look like. Indeed, these three elements have been covered in great details in the book, particularly including all the adjustments made in the accounting items. Will discuss more about them later.
 
 Reference:
