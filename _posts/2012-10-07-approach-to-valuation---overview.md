@@ -11,7 +11,7 @@ Greenwald et al contented that company intrinsic value can be determined by care
 
 As taught in the college, PV analysis is usually the common approach most finance students should think of when it comes to valuation. But Greenwald et al advocated that the Graham & Dodd approach (G&D approach) should be used instead of the common PV analysis. Greenwald et al opinions about the two methods are summarized below:
 
-<table border="1" bordercolor="#000000" style="background-color:#FFFFFF" width="100%" cellpadding="8" cellspacing="2">
+<table border="1" bordercolor="#000000" style="background-color:#FFFFFF" width="800" cellpadding="20" cellspacing="2">
   <tr>
 <th>G&D approach</th>
 <th>PV Analysis</th>
