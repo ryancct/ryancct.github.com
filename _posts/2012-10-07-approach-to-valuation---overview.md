@@ -9,11 +9,11 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 
 Greenwald et al contented that company intrinsic value can be determined by careful analysis. It is actually the task that is essential to successful value investors with accuracy to take advantage of the market's mispricing. As we all understand, there are many methods to do so and each method has its own features and benefits.
 
-As taught in the college, PV analysis is usually the common approach most finance students should think of when it comes to valuation. But Greenwald et al advocated that the Graham & Dodd approach (G&D approach) should be used instead of the common PV analysis. Greenwald et al opinions about the two methods are summarized below:
+As taught in the college, PV analysis is usually the common approach most finance students should think of when it comes to valuation. But Greenwald et al advocated that the Graham & Dodd approach should be used instead of the common PV analysis. Greenwald et al opinions about the valuation methods are summarized below:
 
 <table width="100%" border="1" cellpadding="100" cellspacing="3">
   <tr>
-    <th width="34%" scope="col"><div align="center">G&amp;D approach</div></th>
+    <th width="34%" scope="col"><div align="center">Graham & Dodd approach</div></th>
     <th width="35%" scope="col"><div align="center">PV Analysis</div></th>
     <th width="31%" scope="col"><div align="center">Other methods<br />
     (e.g. multiple-based value or sensitivity analysis)</div></th>
@@ -41,7 +41,7 @@ As taught in the college, PV analysis is usually the common approach most financ
   </tr>
 </table>
 
-So, what is G&D approach to valuation?
+So, what is Graham & Dodd approach to valuation?
 
 In the approach, there are three essential elements - Assets, Earning Power & Profitable Growth.
 
@@ -53,7 +53,7 @@ On the other hand, strategic judgment about the company position & its industry 
 
 As for the Earning Power Value (EPV), Graham and Dodd thought that it is the second most reliable measure of a firm's intrinsic value if the current earnings are properly adjusted. Its formula is: 'EPV = adjusted earnings x 1/R', where R is the current cost of capital. To many people, this actually looks like just another multiple-based valuation just criticized. But Greenwald et al argued that this EPV is based entirely on current available information that is uncontaminated by more uncertain conjectures about the future. And, there is a close connection between EPV and its strategic position. I agreed that, compared to the other common valuation models, the EPV calculation relies relatively less on uncertain factors such as growth rate and growth is very hard to be projected. In the EPV calculation, assumption is made that the earning level remains constant for the indefinite future.
 
-That's also one of the reasons why the growth issue is quite isolated from the other two elements into which the more reliable information is incorporated. Its estimations are so prone to error. Another reason why growth is least reliable measure comes from an interesting argument. Growth on a level economic playing field creates no value. The only growth that creates value is growth in markets where the firm enjoys a competitive advantage.
+That's also one of the reasons why the growth issue is quite isolated from the other two elements into which the more reliable information is incorporated. Another reason why growth is least reliable measure comes from an interesting argument. Growth on a level economic playing field creates no value. The only growth that creates value is growth in markets where the firm enjoys a competitive advantage.
 
 [![three slices of value](http://ryancheng.s3.amazonaws.com/Linear%20Programming/threeslicesofvalue.jpg)](http://www.capitalideasonline.com/articles/index.php?id=2020)
 
