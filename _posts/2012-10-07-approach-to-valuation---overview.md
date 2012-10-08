@@ -57,7 +57,7 @@ Difficult growth estimation is one of the reasons why the growth issue is quite 
 
 [![three slices of value](http://ryancheng.s3.amazonaws.com/Linear%20Programming/threeslicesofvalue.jpg)](http://www.capitalideasonline.com/articles/index.php?id=2020)
 
-Though growth is the element of value that many value investors are skeptical, the other two elements are integrated with it to form a full picture of what a good company should look like. Indeed, these three elements have been covered in great details in the book, particularly including all the adjustments made in the accounting items. Will discuss more about them later.
+Though growth is the element of value that many value investors usually remain skeptical, the other two elements are integrated with it to form a full picture of what a good company should look like. Indeed, these three elements have been covered in great details in the book, particularly including all the adjustments made in the accounting items. Will discuss more about them later.
 
 Reference:
 
