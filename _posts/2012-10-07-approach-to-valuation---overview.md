@@ -43,7 +43,7 @@ PV analysis is usually the common approach most finance students should think of
 
 So, what is Graham & Dodd approach to valuation?
 
-In the approach, there are three essential elements - Assets, Earning Power & Profitable Growth.
+In the approach, there are three essential elements - **Assets, Earning Power & Profitable Growth**.
 
 Asset value among the three elements is the most reliable measure in valuing the firm, while the earning power is second and profitable growth is the least reliable measure.
 
