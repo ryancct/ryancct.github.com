@@ -45,13 +45,19 @@ So, what is Graham & Dodd approach to valuation?
 
 In the approach, there are three essential elements - **Assets, Earning Power & Profitable Growth**.
 
+## Assets
+
 Asset value among the three elements is the most reliable measure in valuing the firm, while the earning power is second and profitable growth is the least reliable measure.
 
 Value investors need to begin with the balance sheet, find the asset value and then find the net asset value by subtracting debt and then arrive at Benjamin Graham famous net-net working capital figures for the company value. For the calculation mentioned above, adjustment needs to be made.
  
 On the other hand, strategic judgment about the company position & its industry is equally important. It can affect the value of assets such as p.p.e. & goodwill and whether these asset items should be valued at reproduction cost. (reproduction cost means the amount the company needs to replace them today.) p.p.e. & goodwill are sometimes taken into consideration in contemporary value investing because nowadays the net-net working capital is a threshold too stringent for finding undervalued stocks in the world.
 
+## Earning Power
+
 As for the Earning Power Value (EPV), Graham and Dodd thought that it is the second most reliable measure of a firm's intrinsic value if the current earnings are properly adjusted. Its formula is: 'EPV = adjusted earnings x 1/R', where R is the current cost of capital. To many people, this actually looks like just another multiple-based valuation just criticized. But Greenwald et al argued that this EPV is based entirely on current available information that is uncontaminated by more uncertain conjectures about the future. And, there is a close connection between EPV and its strategic position. I agreed that, compared to the other common valuation models, the EPV calculation relies relatively less on uncertain factors such as growth rate and growth is very hard to be projected. In the EPV calculation, assumption is made that the earning level remains constant for the indefinite future.
+
+## Profitable Growth
 
 Difficult growth estimation is one of the reasons why the growth issue is quite isolated from the other two elements into which the more reliable information is incorporated. On the other hand, another reason why growth is least reliable measure actually comes from an interesting argument. Growth on a level economic playing field creates no value. The only growth that creates value is growth in markets where the firm enjoys a competitive advantage. Greenwald et al used the case of WD-40 and Intel to discuss this issue in the book.
 
