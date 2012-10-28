@@ -36,7 +36,7 @@ X, Y => 0			(不能生產負數的書包數量),
 
 Max P = 143(21) + 60(53) = 6183 港元
 
-上述所舉的例子只是一個較簡單的例子方便大家明白LP的威力。其實，LP的應用是可以非常廣泛，而當中所設約束條件當然可以更多，算式亦可以更複雜。讀書時期，筆者曾見識了[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)的the theory of portfolio choice. 當中[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)更是LP應用當中的其中一個最佳例子。它利用了LP的原理找出不同Asset Class所產生的最佳投資組合。這個theory更令Markowitz在1990年獲取了Nobel Prize的。筆者曾在讀書時期嘗試利用excel的solver進行LP formulation，試圖運用EF的原理從三個不同資產類別之間計算各自所需的Weighting，籍此找出最佳的投資組合。筆者顯醜將當年所製的excel檔案在此附上[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)，以供參詳。他日將另再撰文詳述相關的原理及具體計算細則。
+上述所舉的例子只是一個較簡單的例子方便大家明白LP的威力。其實，LP的應用是可以非常廣泛，而當中所設約束條件當然可以更多，算式亦可以更複雜。讀書時期，筆者曾見識了[Markowitz]( http://en.wikipedia.org/wiki/Harry_Markowitz)的the theory of portfolio choice. 當中[efficient frontier (EF)]( http://en.wikipedia.org/wiki/Modern_portfolio_theory)更是LP應用當中的其中一個最佳例子。它利用了LP的原理找出不同Asset Class所產生的最佳投資組合。這個theory更令Markowitz在1990年獲取了Nobel Prize的。筆者曾在讀書時期嘗試利用excel的solver進行LP formulation，試圖運用EF的Portfolio Optimization原理從三個不同資產類別之間計算各自所需的Weighting，籍此找出最佳的投資組合。筆者顯醜將當年所製的excel檔案在此附上[(click here)]( http://ryancheng.s3.amazonaws.com/Linear%20Programming/MPT.xls)，以供參詳。他日將另再撰文詳述相關的原理及具體計算細則。
 
 Reference:
 
