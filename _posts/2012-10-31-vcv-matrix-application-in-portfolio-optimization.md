@@ -7,7 +7,7 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 ---
 {% include JB/setup %}
 
-如果想計算出Efficient Portfolio, 我們必須能夠運用資產的回報數據先計算出Variance-Covariance Matrix (VCV Matrix)。顧名思義，這Matrix包含了Asset自身的Variance及Asset與其他Asset之間的Covariance。Variance及Covariance這兩個measures都是尋找Efficient Portfolio時必需考慮的因素。
+如果想計算出Efficient Portfolio, 我們必須能夠運用資產的回報數據先計算出Variance-Covariance Matrix (VCV Matrix)。顧名思義，這Matrix包含了Asset自身的Variance及Asset與其他Asset之間的Covariance。
 
 在數學層面，Variance及Covariance的Formula分別如下圖所示：
 
