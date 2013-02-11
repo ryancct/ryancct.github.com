@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "video sharing   small cap worth a look by paul d sonkin"
+title: "video sharing - small cap worth a look by paul d sonkin"
 description: ""
-category: 
-tags: []
+category: Value Investing
+tags: [Value Investing, Equity, Fundamental Analysis]
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,7 @@ Sonkin focuses on micro and nano cap value plays and looks for a discount to int
 
 In his opinion, all value investors are contrarians, but not all contrarians are value investors because value investors look for more information. Value investors not only compare the current price of the securities to its former high, but also to the intrinsic value of the firm (i.e. examine the assets and earning power). Paul D Sonkin was keen to examin broken IPOS, especially when the market condition is favorable. Under favorable market condition, many IPOs will be waiting to debut on the exchange. It is a good opportunities for insider to cash out, for ibankers and brokers to earn money and for managers to raise cash to expand the business at a relatively inexpensive rate. Therefore, the company being taken public will do its utmost to put its best face forward. But usually after being taken public, the IPO price will drop sharply to the value below the intrinsic one and investment opportunities come.
 
-Here are the video about his opinion in small cap.
+Here is the video about his opinion in small cap.
 <iframe width="560" height="315" src="http://www.youtube.com/embed/OTM7SEnsbgQ" frameborder="0" allowfullscreen></iframe>
 
 Reference:
