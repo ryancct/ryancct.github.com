@@ -26,7 +26,7 @@ Company Asset Value (AV) = 40M
 EPV - AV = 60M
 MV = 150M
 
-As only 40M fund is required to gain the business with EPV 100M or in other words the new entrants can earn 10M annual by only investing 40M (Total return: 25%), this market will attract potential competitors such as, bright entrepreneur, small appliance business owner or another toaster company executive with access to investment capital and experience with retail outlets.
+As only 40M fund is required to run the business with EPV 100M or in other words the new entrants can earn 10M annually by only investing 40M (Total return: 25%), this market will attract potential competitors such as, bright entrepreneur, small appliance business owner or another toaster company executive with access to investment capital and experience with retail outlets.
 
 They will open new plant or expand the capability of an existing one. They will also find a contract to produce the toasters, find or buy an acceptable design and develop attractive packaging and hire experienced sales agent to hawk the stuff. Worse still, it is given that toasters are a commodity product which is interchangeable and selected entirely based on the price basis.
 
@@ -34,7 +34,7 @@ Without a doubt, it will lead to more competition, more toasters, lower toaster 
 
 This process will eventually end when there are so many indistinguishable toasters on the market that profits and prices have fallen to the level at which none of the suppliers earn more than the cost of capital that investors demand on their money.
 
-To avoid this fate, greenward et al, recommends that **differentiate the product or service**. (e.g. advertisement, new feature or new product design) But, if competition is still there, then cost will continue to rise, sales drop. Finally the equilibrium is reached. EPV = AV
+To avoid this fate, greenward et al, recommends us to **differentiate the product or service**. (e.g. advertisement, new feature or new product design) But, if competition is still there, then cost will continue to rise, sales drop. Finally the equilibrium is reached. EPV = AV
 
 The action of differentiation here is actually recognized as franchise which is one of the key elements of finding good company in value investing.
 
