@@ -24,7 +24,7 @@ A = 100M, D = 80M, E = A - D = 20M
 
 If 10% off, 
 A'=90M [100*(1-0.1)]
-E'=A'- D = 90M �V 80M = 10M
+E'=A'- D = 90M - 80M = 10M
 
 Change in Equity = 100% * (E' - E)/E = -50%
 
