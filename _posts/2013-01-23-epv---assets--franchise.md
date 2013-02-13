@@ -33,9 +33,13 @@ Without a doubt, it will lead to more competition, more toasters, lower toaster 
 
 This process will eventually end when there are so many indistinguishable toasters on the market that profits and prices have fallen to the level at which none of the suppliers earn more than the cost of capital that investors demand on their money.
 
-To avoid this fate, greenward et al, recommends that **differentiate the product or service**. (e.g. advertisement, new feature or new product design) But, if competition is still there�Kthen cost will continue to rise, sales drop. Finally the equilibrium is reached. EPV = AV
+To avoid this fate, greenward et al, recommends that **differentiate the product or service**. (e.g. advertisement, new feature or new product design) But, if competition is still there, then cost will continue to rise, sales drop. Finally the equilibrium is reached. EPV = AV
 
 The action of differentiation here is actually recognized as franchise which is one of the key elements of finding good company in value investing.
+
+Reference:
+
+Greenwald. B. C. N. & Kiviat. B. (2001). Value Investing: From Graham to Buffett and Beyond. Wiley.
 
 
 
