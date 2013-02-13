@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "epv -> assets + franchise"
+title: "epv --> assets + franchise"
 description: ""
 category: Value Investing
 tags: [Value Investing, Equity, Fundamental Analysis]
@@ -29,7 +29,7 @@ As only 40M fund is required to gain the business with EPV 100M or in other word
 
 They will open new plant or expand the capability of an existing one. They will also find a contract to produce the toasters, find or buy an acceptable design and develop attractive packaging and hire experienced sales agent to hawk the stuff. Worse still, it is given that toasters are a commodity product which is interchangeable and selected entirely based on the price basis.
 
-Without a doubt, it will lead to more competition, more toasters, lower toaster prices of all toaster company, lower profit of all toaster company, lower earnings of top tasters and lower top toasters EPV�K
+Without a doubt, it will lead to more competition, more toasters, lower toaster prices of all toaster company, lower profit of all toaster company, lower earnings of top tasters and lower top toasters EPV...
 
 This process will eventually end when there are so many indistinguishable toasters on the market that profits and prices have fallen to the level at which none of the suppliers earn more than the cost of capital that investors demand on their money.
 
