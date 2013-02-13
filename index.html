@@ -36,22 +36,22 @@ description: "drop a line of thought here"
   {% endif %}
 
   <p class="pages">
-    <p class="page">
+    <h1 class="page">
       {% if paginator.page == 1 %}
       <span class="current-page">1</span>
       {% else %}
       <a href="/">1</a>
       {% endif %}
-    </p>
+    </h1>
 
     {% for count in (2..paginator.total_pages) %}
-    <p class="page">
+    <h1 class="page">
       {% if count == paginator.page %}
       <span class="current-page">{{count}}</span>
       {% else %}
       <a href="/page{{count}}">{{count}}</a>
       {% endif %}
-    </p>
+    </h1>
     {% endfor %}
   </p>
 
