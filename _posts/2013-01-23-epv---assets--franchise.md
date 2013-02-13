@@ -10,6 +10,7 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 Greenward et al. has used the case study of top toaster which is just a hypothetical company to illustrate the meaning of earning power value. Below are the details:
 
 Annual Earning for the last 5 years = 10M
+
 Annual ROI = 10%
 
 As mentioned previously, the EPV formula is given that:
