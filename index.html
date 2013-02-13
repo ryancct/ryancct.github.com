@@ -9,12 +9,11 @@ description: "drop a line of thought here"
 
    <!-- here add you post markup -->
    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-   <p class="author">
-    <span class="date">{{post.date}}</span>
-  </p>
   <div class="content">
     {{ post.content }}
   </div>
+<em>Posted on {{ post.date | date_to_long_string }}.</em>
+
 {% endfor %}
 
 <!-- Pagination links -->
