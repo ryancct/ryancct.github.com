@@ -9,9 +9,9 @@ tags: [Value Investing, Equity, Fundamental Analysis]
 
 The process of entry and the ability of entrants to compete on equal terms with the established firms are critical. If new comers can develop and distribute new products on an equal footing with incumbents (e.g. equal ability to differentiate), then **all products effectively are commodities**.
 
-Company is regarded as high value company if, compared to other companies, its both actual and potential earnings are above the average in the industry for a sustained period. (Note: Brand has value actually, but if brand value = brand build cost then brand will not be the source of value in the company)
+Company is usually regarded as high value company or company with strong franchise if, compared to other companies, its both actual and potential earnings are above the average in the industry for a sustained period. (Note: Brand has value actually, but if brand value = brand build cost then brand will not be the source of value in the company)
 
-Value is only created when the incumbent has abilities that new entrants cannot match. Value can from competitive advantage (CA) and revenue advantage (RA).
+The nature of a franchise or value is only created when the incumbent has abilities that new entrants cannot match. It comes from competitive advantage (CA) and revenue advantage (RA).
 
 CA can be created by the government when it grants a license to one or several firms to engage in some kind of business, leaving everyone else excluded. For example, cable franchises, Broadcast TV stations, Telephone, electric utilities. Other CA can come from basic profit equation of any business:
 
