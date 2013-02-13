@@ -15,7 +15,7 @@ Value is only created when the incumbent has abilities that new entrants cannot 
 
 CA can be created by the government when it grants a license to one or several firms to engage in some kind of business, leaving everyone else excluded. For example, cable franchises, Broadcast TV stations, Telephone, electric utilities. Other CA can come from basic profit equation of any business:
 
-Revenue ¡V Costs = Profits, so CA =
+Revenue - Costs = Profits, so CA =
 1. Cost advantage: Production techniques or products that the entrants can not match
 2. Patents, whether on the products themselves or on the process of producing them can create one kind of cost based CA
 3. Know-how (downward sloping learning curve)
@@ -27,7 +27,7 @@ And RA usually means Customer demand, easier access to customers, habit (e.g. co
 
 Some argue that Economies of Scale (EOS) is one type of CA. But, greenward et al. has another understanding:
 
-If the scale of operations among all the company is the same, the EOS will be eliminated. It must be combined with customer demand advantages because cost structure advantages are very short-lived. Competition is the rule, not the exception. The conjunction of EOS and demand preferences can provide an important degree of franchise longevity, even in the face of changing technology as it allows the company to be able to spend resources on advertising and serve. It charges less than its smaller competitors and still remains profitable. But, please don¡¦t ¡§size¡¨ with CA based on EOS. EOS CAs arise only when a firm enjoys a disproportionate share of the relevant MKT. Relevant here means that the market that determines the level of fixed spending. For retailers like Wal-Mart or any of its competitors, distribution systems and ad programme costs are fixed by geographic region.
+If the scale of operations among all the company is the same, the EOS will be eliminated. It must be combined with customer demand advantages because cost structure advantages are very short-lived. Competition is the rule, not the exception. The conjunction of EOS and demand preferences can provide an important degree of franchise longevity, even in the face of changing technology as it allows the company to be able to spend resources on advertising and serve. It charges less than its smaller competitors and still remains profitable. But, please don't "size" with CA based on EOS. EOS CAs arise only when a firm enjoys a disproportionate share of the relevant MKT. Relevant here means that the market that determines the level of fixed spending. For retailers like Wal-Mart or any of its competitors, distribution systems and ad programme costs are fixed by geographic region.
 
 In the world where MKT prices already exceed asset values, and the margin of safety by that measure is negative, a contemporary value investor had better be able to identify and understand the sources of a company franchise and the nature of its CAs.
 
