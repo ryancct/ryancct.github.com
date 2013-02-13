@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "epv --> assets + franchise"
+title: "Earning Power Value -> Assets + Franchise"
 description: ""
 category: Value Investing
 tags: [Value Investing, Equity, Fundamental Analysis]
