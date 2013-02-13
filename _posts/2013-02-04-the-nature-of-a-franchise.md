@@ -16,6 +16,7 @@ The nature of a franchise or value is only created when the incumbent has abilit
 CA can be created by the government when it grants a license to one or several firms to engage in some kind of business, leaving everyone else excluded. For example, cable franchises, Broadcast TV stations, Telephone, electric utilities. Other CA can come from basic profit equation of any business:
 
 Revenue - Costs = Profits, so CA =
+
 1. Cost advantage: Production techniques or products that the entrants can not match
 2. Patents, whether on the products themselves or on the process of producing them can create one kind of cost based CA
 3. Know-how (downward sloping learning curve)
