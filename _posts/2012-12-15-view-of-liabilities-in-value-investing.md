@@ -36,13 +36,7 @@ Another way to treat the debt is to consider it alongside the equity as part of 
 
 Enterprise Value = MV of debt + MV of equity - Cash
 
-[Asset Value - Sponstaneous & circumstantial Liabilities] (AV)
-
-Vs
-
-[Enterprise Value] (EV)
-
-If AV > EV + MOS, then it means good investment opportunity.
+If we compare the AV (Asset Value - Sponstaneous & circumstantial Liabilities) with EV (Enterprise Value). And if AV > EV + MOS, then it means good investment opportunity for value investors.
 
 Reference:
 
