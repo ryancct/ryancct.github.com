@@ -7,7 +7,7 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 ---
 {% include JB/setup %}
 
-Capital is necessary to buy the assets required to obtain future [Cash Flows](http://en.wikipedia.org/wiki/Cash_flow). The objective is to raise capital at the lowest possible [cost of capital](http://en.wikipedia.org/wiki/Capital_(economics)). The cost of capital under any circumstances always means the economic cost attract investors or lenders in a competitive environment where they are carefully analyzing and comparing investment opportunities. The cost of capital can be thought of as an [opportunity cost](http://en.wikipedia.org/wiki/Opportunity_cost), that is, the cost of foregoing the next best alternative investments of similar risk. The cost of capital is market driven, comparable to other investment of similar risk.
+Capital is necessary to buy the assets required to obtain future [Cash Flows](http://en.wikipedia.org/wiki/Cash_flow). The objective is to raise capital at the lowest possible [cost of capital](http://en.wikipedia.org/wiki/Financial_capital). The cost of capital under any circumstances always means the economic cost attract investors or lenders in a competitive environment where they are carefully analyzing and comparing investment opportunities. The cost of capital can be thought of as an [opportunity cost](http://en.wikipedia.org/wiki/Opportunity_cost), that is, the cost of foregoing the next best alternative investments of similar risk. The cost of capital is market driven, comparable to other investment of similar risk.
 
 The managers needs to raise capital at the lowest possible cost, because the cost of capital is actually the amount of company ownership that needed to be sold for raising capital.
 
