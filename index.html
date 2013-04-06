@@ -5,6 +5,53 @@ description: "drop a line of thought here"
 ---
 {% include JB/setup %}
 
+<!-- Pagination links -->
+
+
+<div id="post-pagination" class="pagination">
+
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Previous</a>
+    {% else %}
+    <a href="/page{{paginator.previous_page}}">Previous</a>
+    {% endif %}
+  {% else %}
+    <span>Previous</span>
+
+  {% endif %}
+
+
+      {% if paginator.page == 1 %}
+      <span class="current-page">1</span>
+      {% else %}
+      <a href="/">1</a>
+      {% endif %}
+
+    {% for count in (2..paginator.total_pages) %}
+      {% if count == paginator.page %}
+      <span class="current-page">{{count}}</span>
+      {% else %}
+      <a href="/page{{count}}">{{count}}</a>
+      {% endif %}
+    {% endfor %}
+
+
+  {% if paginator.next_page %}
+
+    <a href="/page{{paginator.next_page}}">Next</a>
+
+  {% else %}
+
+    <span>Next</span>
+
+  {% endif %}
+
+</div>
+
+
+
+
 {% for post in paginator.posts %}
 
    <!-- here add you post markup -->
@@ -15,6 +62,10 @@ description: "drop a line of thought here"
 <em>Posted on {{ post.date | date_to_long_string }}.</em>
 
 {% endfor %}
+
+
+
+
 
 <!-- Pagination links -->
 
