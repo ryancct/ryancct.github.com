@@ -18,7 +18,11 @@ For example, the amount of cash needed is $650,000. If the company is valued at 
 At a valuation of $1,500,000, the investor would expect 43.33 percent ownership of the company. At a valuation of $2,000,000, the investor would expect 32.5 percent ownership of the company.
 
 So, the higher the company valuation, the lower the cost of the investment to the business owner, and less of the company will be given away.
+
+
 [![cashneeded](http://ryancheng.s3.amazonaws.com/Linear%20Programming/cashneeded.png)](http://www.investopedia.com/terms/c/cashflowfinvestingactivities.asp)
+
+
 
 Reference:
 
