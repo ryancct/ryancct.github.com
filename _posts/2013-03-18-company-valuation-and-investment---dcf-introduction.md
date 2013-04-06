@@ -22,7 +22,7 @@ In company valuations where this is an actual track record of performance, the f
 
 [![dfcmodel](http://ryancheng.s3.amazonaws.com/Linear%20Programming/dcfmodel.png)](http://en.wikipedia.org/wiki/Discounted_cash_flow)
 
-The key to this formula is the discount rate. The discount rate should include all the risk factors. It represents the rate of return expected based on specific market factors and risks associated with the deal. One way of establishing rate is by using an approach called the __build-up method__
+The key to this formula is the discount rate. The discount rate should include all the risk factors. It represents the rate of return expected based on specific market factors and risks associated with the deal. One way of establishing rate is by using an approach called the [__build-up method__](http://hortonbusinessappraisers.com/Tutorial/DiscountRateBuildupMethod.htm).
 
 The build up method creates a discount rate by adding incremental risk factors to a riskless rate of return. In other words, we start with a rate of return that I would expect froma virtually risk-free investment (historically, this has been 20-year Treasury bonds), and then add incremental risk factors to it in order to arrive at a discount rate that considers all factors associated with the investment.
 
