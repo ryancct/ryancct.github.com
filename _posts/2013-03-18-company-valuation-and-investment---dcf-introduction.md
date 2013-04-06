@@ -30,15 +30,9 @@ The build up method has two basic categories of risk that are added to the riskl
 
 The build up method can be structured as follows: 
 
-  Riskless rate
-  
-+ Systemic risk
+Discount Rate = Riskless rate + Systemic risk + Unsystemic risk 
 
-+ Unsystemic risk
- 
-= Discount Rate
-
-Detail build up method should give accurate discount rate that can help better determine the company�s worth.
+Detail build up method should give accurate discount rate that can help better determine the company's worth.
 
 Reference:
 
