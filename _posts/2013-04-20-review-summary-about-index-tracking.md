@@ -24,7 +24,8 @@ Reference:
 
 Passive management. (2013). In Wikipedia, The Free Encyclopedia. Retrieved from http://en.wikipedia.org/w/index.php?title=Passive_management&oldid=544027300
 
-Malkiel. B. G. (2003). Passive Investment Strategies and Efficient Markets. Retrieved from http://www.ifa.com/Media/images/PDF%20files/Malkiel_PassiveInvestmentStrategiesandEfficientMarkets%20(2).pdf
+Malkiel. B. G. (2003). Passive Investment Strategies and Efficient Markets. Retrieved from http://www.ifa.com/Media/images/PDF%20files/Malkiel_PassiveInvestmentStrategiesandEf
+ficientMarkets%20(2).pdf
 
 Jin. Z., Maringer. D. (2009). Index Mutual Fund Replication. Retrieved from http://comisef.eu/files/Jin1.pdf
 
