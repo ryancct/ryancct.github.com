@@ -12,6 +12,7 @@ tags: [Trading, Equity, Fundamental Analysis, Mathematics]
 在數學層面，Variance及Covariance的Formula分別如下圖所示：
 
 [![vcvdef](http://ryancheng.s3.amazonaws.com/Linear%20Programming/vcvdef.bmp)](http://stattrek.com/matrix-algebra/covariance-matrix.aspx)
+
 Source: http://stattrek.com/matrix-algebra/covariance-matrix.aspx
 
 事實上，在Excel亦有相應的function 可供用家使用的。請留意，Excel提供的Variance和Covariance的Formula是針對整個population size而不是整個sample size的。所以，它們的denominator都是N而不是N-1。若有需要使用sample size的Variance或Covariance，可自行乘以 N/(N-1) 調整。
